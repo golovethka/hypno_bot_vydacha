@@ -21,7 +21,7 @@ import asyncpg
 # НАСТРОЙКИ — задаются переменными окружения на Railway
 # ─────────────────────────────────────────────
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8719901855:AAH_8TyTkO_fD5leaAsADBqZkxV2KTvwykg")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8966200085:AAHuTJ7QetvTF2lr7cVFPDNP2yhd3oC_KDQ")
 
 # ID администраторов — только они управляют офферами, делают рассылку, видят статистику.
 # Узнать свой ID: напиши @userinfobot
